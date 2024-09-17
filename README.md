@@ -11,11 +11,11 @@
 
 You're absolutely right! Data structures and algorithms go hand-in-hand, so the roadmap should integrate both together in a step-by-step manner. Here's an updated roadmap where we introduce algorithms alongside data structures as required:
 
-### **Integrated Roadmap: Data Structures & Algorithms**
+ ### **Integrated Roadmap: Data Structures & Algorithms**
 
 ---
 
-### **Phase 1: Basic Concepts and Operations**
+> ### **Phase 1: Basic Concepts and Operations**
 1. **Arrays/Lists**  
    - **Data Structure**: Arrays (Static and Dynamic)
      - Operations: Traversal, Insertion, Deletion, Searching.
@@ -31,7 +31,7 @@ You're absolutely right! Data structures and algorithms go hand-in-hand, so the 
 
 ---
 
-### **Phase 2: Stacks and Queues**
+> ### **Phase 2: Stacks and Queues**
 3. **Stacks**  
    - **Data Structure**: Stack (LIFO)
      - Operations: Push, Pop, Peek, isEmpty.
@@ -53,7 +53,7 @@ You're absolutely right! Data structures and algorithms go hand-in-hand, so the 
 
 ---
 
-### **Phase 3: Linked Lists**
+> ### **Phase 3: Linked Lists**
 5. **Linked List (Singly & Doubly)**
    - **Data Structure**: Singly Linked List, Doubly Linked List
      - Operations: Insertion, Deletion, Traversal.
@@ -63,7 +63,7 @@ You're absolutely right! Data structures and algorithms go hand-in-hand, so the 
 
 ---
 
-### **Phase 4: Sorting Algorithms**
+> ### **Phase 4: Sorting Algorithms**
 6. **Sorting Algorithms**
    - **Algorithms**: 
      - Insertion Sort, Merge Sort, Quick Sort.
@@ -73,7 +73,7 @@ You're absolutely right! Data structures and algorithms go hand-in-hand, so the 
 
 ---
 
-### **Phase 5: Trees and Advanced Searching**
+> ### **Phase 5: Trees and Advanced Searching**
 7. **Trees (Binary Trees, Binary Search Trees)**
    - **Data Structure**: Binary Tree, Binary Search Tree (BST)
      - Operations: Insertion, Deletion, Traversal.
@@ -85,7 +85,7 @@ You're absolutely right! Data structures and algorithms go hand-in-hand, so the 
 
 ---
 
-### **Phase 6: Hashing and Dictionaries**
+> ### **Phase 6: Hashing and Dictionaries**
 8. **Hash Tables**
    - **Data Structure**: Hashing, Hash Tables, Python Dictionaries.
      - Operations: Insert, Search, Delete.
@@ -94,7 +94,7 @@ You're absolutely right! Data structures and algorithms go hand-in-hand, so the 
 
 ---
 
-### **Phase 7: Graphs**
+> ### **Phase 7: Graphs**
 9. **Graphs**  
    - **Data Structure**: Graph (Adjacency List, Adjacency Matrix).
      - Representation and traversal.
@@ -105,7 +105,7 @@ You're absolutely right! Data structures and algorithms go hand-in-hand, so the 
 
 ---
 
-### **Phase 8: Dynamic Programming**
+> ### **Phase 8: Dynamic Programming**
 10. **Dynamic Programming (DP)**  
     - **Algorithm**:
       - Key problems: Fibonacci, 0/1 Knapsack, Longest Common Subsequence.
@@ -114,8 +114,9 @@ You're absolutely right! Data structures and algorithms go hand-in-hand, so the 
 
 ---
 
-### **Phase 9: Problem Solving & Real-world Applications**
+> ### **Phase 9: Problem Solving & Real-world Applications**
 11. **Real-World Applications and Challenges**  
     - Solve interview questions and challenges using a combination of data structures and algorithms.
     - Focus on optimization and edge cases.
 
+---
